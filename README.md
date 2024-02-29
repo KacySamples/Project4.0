@@ -63,6 +63,9 @@ This comprehensive approach encapsulates the entire pipeline from data preparati
 ## **Table of Contents**
 Code utilized for this analysis can be found in the file titled "pythonANDbeyond_Project4.ipynb" within the main branch on our GitHub "Project4.0" repo. Data visualizations can be found in the within the main branch on our GitHub "Project4.0" repo. Data utilized for this analysis can be found in the files titled "movies_metadata.csv", "credits.csv", and "keywords.csv" within the "Data" directory. Our presentation slides, titled "Content Based Movie Recommendation System", can be located within the main branch of the repo.
 
+tableau work:
+https://public.tableau.com/app/profile/tye.elliott/vizzes
+
 ## **Installation Instructions**
 Code utilized for this analysis can be found in the file titled "pythonANDbeyond_Project4.ipynb" within the main branch on our GitHub "Project4.0" repo.
 
