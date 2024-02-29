@@ -61,7 +61,7 @@ Saving Processed Data: Save the cleaned and merged dataset into a new CSV file f
 This comprehensive approach encapsulates the entire pipeline from data preparation to feature engineering, similarity computation, and finally, the deployment of an interactive content-based movie recommendation system. This structured process ensures the development of an effective and user-friendly recommendation system leveraging movie metadata.
 
 ## **Table of Contents**
-Code utilized for this analysis can be found in the file titled "pythonANDbeyond_Project4.ipynb" within the main branch on our GitHub "Project4.0" repo. Data visualizations can be found in the "Graph_PNGS" directory. Data utilized for this analysis can be found in the files titled "movies_metadata.csv", "credits.csv", and "keywords.csv" within the "Data" directory. Our presentation slides, titled "Content Based Movie Recommendation System", can be located within the main branch of the repo.
+Code utilized for this analysis can be found in the file titled "pythonANDbeyond_Project4.ipynb" within the main branch on our GitHub "Project4.0" repo. Data visualizations can be found in the within the main branch on our GitHub "Project4.0" repo. Data utilized for this analysis can be found in the files titled "movies_metadata.csv", "credits.csv", and "keywords.csv" within the "Data" directory. Our presentation slides, titled "Content Based Movie Recommendation System", can be located within the main branch of the repo.
 
 ## **Installation Instructions**
 Code utilized for this analysis can be found in the file titled "pythonANDbeyond_Project4.ipynb" within the main branch on our GitHub "Project4.0" repo.
