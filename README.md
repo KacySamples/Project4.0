@@ -13,7 +13,7 @@ Kirby Smith
 # **Project Description**
 
 ## **Objective:**
-Develop a recommendation system that suggests movies based on their metadata (genres, keywords, taglines, etc.) by employing a content-based filtering approach.
+Develop a recommendation system that suggests movies based on their metadata (genres, keywords, taglines, etc.) by employing a content-based filtering approach..
 
 
 ## Data Preparation and Cleaning:
